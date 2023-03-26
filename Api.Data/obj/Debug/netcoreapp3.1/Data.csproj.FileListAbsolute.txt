@@ -1,0 +1,9 @@
+/home/gehring/projeto/curso_api_netcore/src/Api.Data/bin/Debug/netcoreapp3.1/Data.deps.json
+/home/gehring/projeto/curso_api_netcore/src/Api.Data/bin/Debug/netcoreapp3.1/Data.dll
+/home/gehring/projeto/curso_api_netcore/src/Api.Data/bin/Debug/netcoreapp3.1/Data.pdb
+/home/gehring/projeto/curso_api_netcore/src/Api.Data/obj/Debug/netcoreapp3.1/Data.csprojAssemblyReference.cache
+/home/gehring/projeto/curso_api_netcore/src/Api.Data/obj/Debug/netcoreapp3.1/Data.AssemblyInfoInputs.cache
+/home/gehring/projeto/curso_api_netcore/src/Api.Data/obj/Debug/netcoreapp3.1/Data.AssemblyInfo.cs
+/home/gehring/projeto/curso_api_netcore/src/Api.Data/obj/Debug/netcoreapp3.1/Data.csproj.CoreCompileInputs.cache
+/home/gehring/projeto/curso_api_netcore/src/Api.Data/obj/Debug/netcoreapp3.1/Data.dll
+/home/gehring/projeto/curso_api_netcore/src/Api.Data/obj/Debug/netcoreapp3.1/Data.pdb
