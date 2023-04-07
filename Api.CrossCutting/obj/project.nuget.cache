@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FPn15r67laLDfoaStpHLkpVsjt5e/48cMKwJvSLBWU8OCYJq9SGU2PxyqX5QLVpNvEqyJW8yr3R5QpZU9jWgug==",
+  "dgSpecHash": "JmVpl+zZINpAzs9oDrXlS7W/A8XsKbf3iigpr5xAG1btf4zWa9YPeeTdML5q4pdWb86WyPbTOM2iEKu6sEn4MA==",
   "success": true,
-  "projectFilePath": "/home/gehring/projeto/curso_api_netcore/src/Api.CrossCutting/CrossCutting.csproj",
+  "projectFilePath": "/home/cristiano/Projetos/Curso-AspNetCore/Api.CrossCutting/CrossCutting.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

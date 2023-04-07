@@ -7,3 +7,13 @@
 /home/gehring/projeto/curso_api_netcore/src/Api.Service/obj/Debug/netcoreapp3.1/Service.csproj.CoreCompileInputs.cache
 /home/gehring/projeto/curso_api_netcore/src/Api.Service/obj/Debug/netcoreapp3.1/Service.dll
 /home/gehring/projeto/curso_api_netcore/src/Api.Service/obj/Debug/netcoreapp3.1/Service.pdb
+/home/cristiano/Projetos/Curso-AspNetCore/Api.Service/bin/Debug/netcoreapp3.1/Service.deps.json
+/home/cristiano/Projetos/Curso-AspNetCore/Api.Service/bin/Debug/netcoreapp3.1/Service.dll
+/home/cristiano/Projetos/Curso-AspNetCore/Api.Service/bin/Debug/netcoreapp3.1/Service.pdb
+/home/cristiano/Projetos/Curso-AspNetCore/Api.Service/obj/Debug/netcoreapp3.1/Service.AssemblyInfoInputs.cache
+/home/cristiano/Projetos/Curso-AspNetCore/Api.Service/obj/Debug/netcoreapp3.1/Service.AssemblyInfo.cs
+/home/cristiano/Projetos/Curso-AspNetCore/Api.Service/obj/Debug/netcoreapp3.1/Service.csproj.CoreCompileInputs.cache
+/home/cristiano/Projetos/Curso-AspNetCore/Api.Service/obj/Debug/netcoreapp3.1/Service.dll
+/home/cristiano/Projetos/Curso-AspNetCore/Api.Service/obj/Debug/netcoreapp3.1/Service.pdb
+/home/cristiano/Projetos/Curso-AspNetCore/Api.Service/obj/Debug/netcoreapp3.1/Service.csproj.AssemblyReference.cache
+/home/cristiano/Projetos/Curso-AspNetCore/Api.Service/obj/Debug/netcoreapp3.1/Service.GeneratedMSBuildEditorConfig.editorconfig

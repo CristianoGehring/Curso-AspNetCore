@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "/home/gehring/.nuget/packages/": {}
+    "/home/cristiano/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/gehring/projeto/curso_api_netcore/src/Api.CrossCutting/CrossCutting.csproj",
+      "projectUniqueName": "/home/cristiano/Projetos/Curso-AspNetCore/Api.CrossCutting/CrossCutting.csproj",
       "projectName": "CrossCutting",
-      "projectPath": "/home/gehring/projeto/curso_api_netcore/src/Api.CrossCutting/CrossCutting.csproj",
-      "packagesPath": "/home/gehring/.nuget/packages/",
-      "outputPath": "/home/gehring/projeto/curso_api_netcore/src/Api.CrossCutting/obj/",
+      "projectPath": "/home/cristiano/Projetos/Curso-AspNetCore/Api.CrossCutting/CrossCutting.csproj",
+      "packagesPath": "/home/cristiano/.nuget/packages/",
+      "outputPath": "/home/cristiano/Projetos/Curso-AspNetCore/Api.CrossCutting/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/gehring/.nuget/NuGet/NuGet.Config"
+        "/home/cristiano/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -30,6 +30,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -41,13 +42,15 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -56,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/3.1.426/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/home/cristiano/dotnet/sdk/6.0.407/RuntimeIdentifierGraph.json"
       }
     }
   }

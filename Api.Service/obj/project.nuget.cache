@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P/xYI1ZYHgC7Sp05Jp3N/L56fF9J4e8P6DMwFwrZMBLxH2AMHwxDcBp3lCbQePCkIHsZj12fYtfxq26cLyCBMA==",
+  "dgSpecHash": "zXmVgxWHOJRKSrgNNYNC+QV6S63eKZ5LGhFNXPGKyMiTBZ9xn41xObwTU0glqdJ8s/nP0TsUDsR4YJSRfSus0Q==",
   "success": true,
-  "projectFilePath": "/home/gehring/projeto/curso_api_netcore/src/Api.Service/Service.csproj",
+  "projectFilePath": "/home/cristiano/Projetos/Curso-AspNetCore/Api.Service/Service.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

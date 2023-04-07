@@ -7,3 +7,13 @@
 /home/gehring/projeto/curso_api_netcore/src/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.csproj.CoreCompileInputs.cache
 /home/gehring/projeto/curso_api_netcore/src/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.dll
 /home/gehring/projeto/curso_api_netcore/src/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.pdb
+/home/cristiano/Projetos/Curso-AspNetCore/Api.CrossCutting/bin/Debug/netcoreapp3.1/CrossCutting.deps.json
+/home/cristiano/Projetos/Curso-AspNetCore/Api.CrossCutting/bin/Debug/netcoreapp3.1/CrossCutting.dll
+/home/cristiano/Projetos/Curso-AspNetCore/Api.CrossCutting/bin/Debug/netcoreapp3.1/CrossCutting.pdb
+/home/cristiano/Projetos/Curso-AspNetCore/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.AssemblyInfoInputs.cache
+/home/cristiano/Projetos/Curso-AspNetCore/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.AssemblyInfo.cs
+/home/cristiano/Projetos/Curso-AspNetCore/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.csproj.CoreCompileInputs.cache
+/home/cristiano/Projetos/Curso-AspNetCore/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.dll
+/home/cristiano/Projetos/Curso-AspNetCore/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.pdb
+/home/cristiano/Projetos/Curso-AspNetCore/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.csproj.AssemblyReference.cache
+/home/cristiano/Projetos/Curso-AspNetCore/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.GeneratedMSBuildEditorConfig.editorconfig

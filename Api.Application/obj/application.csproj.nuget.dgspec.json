@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/gehring/projeto/curso_api_netcore/src/Api.Application/application.csproj": {}
+    "/home/cristiano/Projetos/Curso-AspNetCore/Api.Application/application.csproj": {}
   },
   "projects": {
-    "/home/gehring/projeto/curso_api_netcore/src/Api.Application/application.csproj": {
+    "/home/cristiano/Projetos/Curso-AspNetCore/Api.Application/application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/gehring/projeto/curso_api_netcore/src/Api.Application/application.csproj",
+        "projectUniqueName": "/home/cristiano/Projetos/Curso-AspNetCore/Api.Application/application.csproj",
         "projectName": "application",
-        "projectPath": "/home/gehring/projeto/curso_api_netcore/src/Api.Application/application.csproj",
-        "packagesPath": "/home/gehring/.nuget/packages/",
-        "outputPath": "/home/gehring/projeto/curso_api_netcore/src/Api.Application/obj/",
+        "projectPath": "/home/cristiano/Projetos/Curso-AspNetCore/Api.Application/application.csproj",
+        "packagesPath": "/home/cristiano/.nuget/packages/",
+        "outputPath": "/home/cristiano/Projetos/Curso-AspNetCore/Api.Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/gehring/.nuget/NuGet/NuGet.Config"
+          "/home/cristiano/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -24,6 +24,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -35,13 +36,15 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -53,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/3.1.426/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/cristiano/dotnet/sdk/6.0.407/RuntimeIdentifierGraph.json"
         }
       }
     }

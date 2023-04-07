@@ -7,3 +7,13 @@
 /home/gehring/projeto/curso_api_netcore/src/Api.Domain/obj/Debug/netcoreapp3.1/Domain.csproj.CoreCompileInputs.cache
 /home/gehring/projeto/curso_api_netcore/src/Api.Domain/obj/Debug/netcoreapp3.1/Domain.dll
 /home/gehring/projeto/curso_api_netcore/src/Api.Domain/obj/Debug/netcoreapp3.1/Domain.pdb
+/home/cristiano/Projetos/Curso-AspNetCore/Api.Domain/obj/Debug/netcoreapp3.1/Domain.AssemblyInfoInputs.cache
+/home/cristiano/Projetos/Curso-AspNetCore/Api.Domain/obj/Debug/netcoreapp3.1/Domain.AssemblyInfo.cs
+/home/cristiano/Projetos/Curso-AspNetCore/Api.Domain/obj/Debug/netcoreapp3.1/Domain.csproj.CoreCompileInputs.cache
+/home/cristiano/Projetos/Curso-AspNetCore/Api.Domain/obj/Debug/netcoreapp3.1/Domain.dll
+/home/cristiano/Projetos/Curso-AspNetCore/Api.Domain/obj/Debug/netcoreapp3.1/Domain.pdb
+/home/cristiano/Projetos/Curso-AspNetCore/Api.Domain/bin/Debug/netcoreapp3.1/Domain.deps.json
+/home/cristiano/Projetos/Curso-AspNetCore/Api.Domain/bin/Debug/netcoreapp3.1/Domain.dll
+/home/cristiano/Projetos/Curso-AspNetCore/Api.Domain/bin/Debug/netcoreapp3.1/Domain.pdb
+/home/cristiano/Projetos/Curso-AspNetCore/Api.Domain/obj/Debug/netcoreapp3.1/Domain.csproj.AssemblyReference.cache
+/home/cristiano/Projetos/Curso-AspNetCore/Api.Domain/obj/Debug/netcoreapp3.1/Domain.GeneratedMSBuildEditorConfig.editorconfig
