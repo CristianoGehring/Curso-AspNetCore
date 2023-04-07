@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "01joaSnYLSwC0T8doHNmXL+ACmikXQoEIcMiKYR7yEBRnxBjf0YhFFjtFyFCOTo1e+pZN6JoP3yTwK4LdEFNBg==",
+  "dgSpecHash": "jQI7V+4iS+NUFyeuiSAIizFEfGCixKDCOQM/ZMqwJKE1m1g6OuzupFLpWSlEQzafLIz6hrfN9n1fluFDyds23g==",
   "success": true,
   "projectFilePath": "/home/cristiano/Projetos/Curso-AspNetCore/Api.Data/Data.csproj",
   "expectedPackageFiles": [

@@ -20,3 +20,6 @@
 /home/cristiano/Projetos/Curso-AspNetCore/Api.Data/bin/Debug/netcoreapp3.1/Data.runtimeconfig.json
 /home/cristiano/Projetos/Curso-AspNetCore/Api.Data/bin/Debug/netcoreapp3.1/Data.runtimeconfig.dev.json
 /home/cristiano/Projetos/Curso-AspNetCore/Api.Data/obj/Debug/netcoreapp3.1/Data.genruntimeconfig.cache
+/home/cristiano/Projetos/Curso-AspNetCore/Api.Data/bin/Debug/netcoreapp3.1/Domain.dll
+/home/cristiano/Projetos/Curso-AspNetCore/Api.Data/bin/Debug/netcoreapp3.1/Domain.pdb
+/home/cristiano/Projetos/Curso-AspNetCore/Api.Data/obj/Debug/netcoreapp3.1/Data.csproj.CopyComplete
