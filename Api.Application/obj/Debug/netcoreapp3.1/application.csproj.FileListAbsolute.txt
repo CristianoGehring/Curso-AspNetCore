@@ -35,6 +35,5 @@
 /home/cristiano/Projetos/Curso-AspNetCore/Api.Application/obj/Debug/netcoreapp3.1/application.dll
 /home/cristiano/Projetos/Curso-AspNetCore/Api.Application/obj/Debug/netcoreapp3.1/application.pdb
 /home/cristiano/Projetos/Curso-AspNetCore/Api.Application/obj/Debug/netcoreapp3.1/application.genruntimeconfig.cache
-/home/cristiano/Projetos/Curso-AspNetCore/Api.Application/bin/Debug/netcoreapp3.1/application.StaticWebAssets.xml
 /home/cristiano/Projetos/Curso-AspNetCore/Api.Application/obj/Debug/netcoreapp3.1/application.csproj.AssemblyReference.cache
 /home/cristiano/Projetos/Curso-AspNetCore/Api.Application/obj/Debug/netcoreapp3.1/application.GeneratedMSBuildEditorConfig.editorconfig
