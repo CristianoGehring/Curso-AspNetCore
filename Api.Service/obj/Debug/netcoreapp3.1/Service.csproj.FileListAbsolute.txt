@@ -17,10 +17,8 @@
 /home/cristiano/Projetos/Curso-AspNetCore/Api.Service/obj/Debug/netcoreapp3.1/Service.pdb
 /home/cristiano/Projetos/Curso-AspNetCore/Api.Service/obj/Debug/netcoreapp3.1/Service.csproj.AssemblyReference.cache
 /home/cristiano/Projetos/Curso-AspNetCore/Api.Service/obj/Debug/netcoreapp3.1/Service.GeneratedMSBuildEditorConfig.editorconfig
-/home/cristiano/Projetos/Curso-AspNetCore/Api.Service/bin/Debug/netcoreapp3.1/CrossCutting.dll
 /home/cristiano/Projetos/Curso-AspNetCore/Api.Service/bin/Debug/netcoreapp3.1/Data.dll
 /home/cristiano/Projetos/Curso-AspNetCore/Api.Service/bin/Debug/netcoreapp3.1/Domain.dll
 /home/cristiano/Projetos/Curso-AspNetCore/Api.Service/bin/Debug/netcoreapp3.1/Domain.pdb
 /home/cristiano/Projetos/Curso-AspNetCore/Api.Service/bin/Debug/netcoreapp3.1/Data.pdb
-/home/cristiano/Projetos/Curso-AspNetCore/Api.Service/bin/Debug/netcoreapp3.1/CrossCutting.pdb
 /home/cristiano/Projetos/Curso-AspNetCore/Api.Service/obj/Debug/netcoreapp3.1/Service.csproj.CopyComplete

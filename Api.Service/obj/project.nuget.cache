@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "dLQHOGJnfsx6Et74U2uEz6UOrRmhQQ09ZIpFteMnewo+rrUIHYZmhbe65c2W28F3JZvjg+zc+0ud0VRX+cthTA==",
+  "dgSpecHash": "MnEvH+fTPDDaU0JlKt0v7ZpUOhKPBotDZz5nT9q6B5shDDSYiBAx8XJJk0MRjTynU/b5/I0rzhbRbtWYlch1dw==",
   "success": true,
   "projectFilePath": "/home/cristiano/Projetos/Curso-AspNetCore/Api.Service/Service.csproj",
   "expectedPackageFiles": [

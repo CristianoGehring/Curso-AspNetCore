@@ -91,7 +91,17 @@
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
-            "projectReferences": {}
+            "projectReferences": {
+              "/home/cristiano/Projetos/Curso-AspNetCore/Api.Data/Data.csproj": {
+                "projectPath": "/home/cristiano/Projetos/Curso-AspNetCore/Api.Data/Data.csproj"
+              },
+              "/home/cristiano/Projetos/Curso-AspNetCore/Api.Domain/Domain.csproj": {
+                "projectPath": "/home/cristiano/Projetos/Curso-AspNetCore/Api.Domain/Domain.csproj"
+              },
+              "/home/cristiano/Projetos/Curso-AspNetCore/Api.Service/Service.csproj": {
+                "projectPath": "/home/cristiano/Projetos/Curso-AspNetCore/Api.Service/Service.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -103,6 +113,12 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.1.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -277,9 +293,6 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "/home/cristiano/Projetos/Curso-AspNetCore/Api.CrossCutting/CrossCutting.csproj": {
-                "projectPath": "/home/cristiano/Projetos/Curso-AspNetCore/Api.CrossCutting/CrossCutting.csproj"
-              },
               "/home/cristiano/Projetos/Curso-AspNetCore/Api.Data/Data.csproj": {
                 "projectPath": "/home/cristiano/Projetos/Curso-AspNetCore/Api.Data/Data.csproj"
               },
